@@ -1,2 +1,2 @@
-tGit is a version control system
+tGit is a distributed  version control system
 GGit is free software
